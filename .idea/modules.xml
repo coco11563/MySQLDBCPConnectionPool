@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MySQLDBCPConnectionPool.iml" filepath="$PROJECT_DIR$/MySQLDBCPConnectionPool.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mysql-dbcp-bundle-nar/mysql-dbcp-bundle-nar.iml" filepath="$PROJECT_DIR$/mysql-dbcp-bundle-nar/mysql-dbcp-bundle-nar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mysql-dbcp-controller-service/mysql-dbcp-controller-service.iml" filepath="$PROJECT_DIR$/mysql-dbcp-controller-service/mysql-dbcp-controller-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mysql-dbcp-controller-service-api/mysql-dbcp-controller-service-api.iml" filepath="$PROJECT_DIR$/mysql-dbcp-controller-service-api/mysql-dbcp-controller-service-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mysql-dbcp-controller-service-api-nar/mysql-dbcp-controller-service-api-nar.iml" filepath="$PROJECT_DIR$/mysql-dbcp-controller-service-api-nar/mysql-dbcp-controller-service-api-nar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mysql-dbcp-processor/mysql-dbcp-processor.iml" filepath="$PROJECT_DIR$/mysql-dbcp-processor/mysql-dbcp-processor.iml" />
+    </modules>
+  </component>
+</project>
